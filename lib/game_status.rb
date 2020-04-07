@@ -69,7 +69,7 @@ def winner(board)
   elsif board[letter] == "O"
     return "O"
   else
-    return nil
+    false return nil
   end
 
 end
