@@ -68,7 +68,7 @@ def winner(board)
 
     if board[letter] == "X"
       return "X"
-    else 
+    else
       return "O"
     end
 
